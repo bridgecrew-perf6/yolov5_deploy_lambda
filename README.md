@@ -19,6 +19,9 @@ yolov5/tests 폴더에 자신이 학습한 yolov5 pt파일로 변경
 
 # 3. app.py 파일 수정 
 ![image](https://user-images.githubusercontent.com/62790857/171796423-012201ee-c2b7-46b1-879e-1d565b04ea0c.png)
+
+
+
 자신이 예측하고 싶은 사진을 data 폴더에 넣고 
 app.py의 코드 이미지 디렉토리 변경.
 
