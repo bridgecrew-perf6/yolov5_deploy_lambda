@@ -11,11 +11,9 @@ lambda 와 api gateway를 통하여
 !git clone https://github.com/wkdoekofekfoekf/yolov5_depoly_lambda.git
 
 # 2.커스텀 모델 변경 및 실행
-yolov5/tests 폴더에 자신이 학습한 yolov5 pt파일로 변경
-
-
 
 ![image](https://user-images.githubusercontent.com/62790857/171796213-294fe880-f912-491b-ae86-916092410a28.png)
+yolov5/tests 폴더에 자신이 학습한 yolov5 pt파일로 변경
 
 
 
@@ -42,8 +40,7 @@ conf.json의 프로파일 명 : 현재 사용하는 이름으로 변경
 
 # 6. 노트북 스텝을 따라간 뒤 추론 부분에서 제대로 작업이 되는지 확인후 
 AWS 콘솔로이동
-## 참고 : 노트북 스텝중 추론 부분에서 이미지 파일을 바이너리 형식으로 읽어오는 부분이 있음. 
-## 이 부분을 출력하여 나오는 이진 형식을 복사 해두면 편함.
+## 참고 : 노트북 스텝중 추론 부분에서 이미지 파일을 바이너리 형식으로 읽어오는 부분이 있음. 이 부분을 출력하여 나오는 이진 형식을 복사 해두면 편함.
 
 # 7.aws lambda
 노트북에서 생성한 lambda 함수 테스트 
