@@ -26,15 +26,11 @@ app.py의 코드 이미지 디렉토리 변경.
 
 
 # 3. 쉘 창에서 python app.py 실행
-
-
-
-
+로컬 cmd에서 실행함.
 
 # 4. 실행 확인 후 yolov5 flask+aws.ipynb 실행, 주피터 에서 진행
-
-
-
+쉘은 종료하지 않고 아래에 aws cli때 사용
+노트북 실행
 # 5. configure 템플릿 파일 변경
 
 !move conf.json.template conf.json을 사용하여 템플릿 파일 conf.json으로 변경
