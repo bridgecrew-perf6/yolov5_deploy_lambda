@@ -8,7 +8,7 @@ lambda 와 api gateway를 통하여
 
 
 
-
+git clone https://github.com/wkdoekofekfoekf/yolov5_depoly_lambda.git
 
 
 
