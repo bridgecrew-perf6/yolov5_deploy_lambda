@@ -31,9 +31,7 @@ app.py의 코드 이미지 디렉토리 변경.
 노트북 실행
 # 5. configure 템플릿 파일 변경
 
-!move conf.json.template conf.json을 사용하여 템플릿 파일 conf.json으로 변경
-그 뒤 셀창의 aws configure list를 이용하여 
-conf.json의 프로파일 명 : 현재 사용하는 이름으로 변경
+!move conf.json.template conf.json을 사용하여 템플릿 파일 conf.json으로 변경 그 뒤 셀창의 aws configure list를 이용하여 conf.json의 프로파일 명 : 현재 사용하는 이름으로 변경
 
 ![image](https://user-images.githubusercontent.com/62790857/171797819-0a0329b9-c40d-4cbb-8f0c-5a7e7ab766dc.png)
 
